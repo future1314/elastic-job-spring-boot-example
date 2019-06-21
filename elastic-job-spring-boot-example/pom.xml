@@ -28,11 +28,16 @@
 		</dependency>
 
 		<dependency>
+		    <groupId>com.cxytiandi</groupId>
+		    <artifactId>elastic-job-spring-boot-starter</artifactId>
+		    <version>1.0.2</version>
+		</dependency>
+		<!-- <dependency>
 		    <groupId>com.github.yinjihuan</groupId>
 		    <artifactId>elastic-job-spring-boot-starter</artifactId>
 		    <version>1.0.2</version>
 		</dependency>
-
+		-->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
